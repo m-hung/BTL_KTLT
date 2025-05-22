@@ -1,0 +1,24 @@
+-
+Thai Tran Minh Hung
+655107
+22 1 2006
+cntt
+65
+3.00
+Tien Giang
+-
+Nguyen Van A
+645123
+1 11 2005
+kien truc
+64
+4.00
+Ha Noi
+-
+Nguyen Van B
+645123
+1 1 2000
+to
+60
+2.00
+Sai Gon
